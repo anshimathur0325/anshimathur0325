@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anshimathur0325
-- 👀 I’m interested in learning how to use programming to create cool projects
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in learning how to use programming to help the world around me!
+- 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on anything I can help with. 
 - 📫 How to reach me: email anshimathur0325@gmail.com
 
